@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\bin\Debug\FindMaxValJav.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\bin\Debug\FindMaxValJav.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\bin\Debug\FindMaxValJav.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\obj\Debug\FindMaxValJav.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\obj\Debug\FindMaxValJav.frmFindMaxValJav.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\obj\Debug\FindMaxValJav.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\obj\Debug\FindMaxValJav.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\obj\Debug\FindMaxValJav.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\FindMaxValJav\FindMaxValJav\obj\Debug\FindMaxValJav.pdb

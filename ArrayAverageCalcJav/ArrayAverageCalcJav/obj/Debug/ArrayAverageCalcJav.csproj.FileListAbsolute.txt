@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\bin\Debug\ArrayAverageCalcJav.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\bin\Debug\ArrayAverageCalcJav.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\bin\Debug\ArrayAverageCalcJav.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\obj\Debug\ArrayAverageCalcJav.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\obj\Debug\ArrayAverageCalcJav.frmArrayAverageCalcJav.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\obj\Debug\ArrayAverageCalcJav.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\obj\Debug\ArrayAverageCalcJav.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\obj\Debug\ArrayAverageCalcJav.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\ArrayAverageCalcJav\ArrayAverageCalcJav\obj\Debug\ArrayAverageCalcJav.pdb

@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\bin\Debug\MinValueJav.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\bin\Debug\MinValueJav.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\bin\Debug\MinValueJav.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\obj\Debug\MinValueJav.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\obj\Debug\MinValueJav.frmMinValueJav.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\obj\Debug\MinValueJav.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\obj\Debug\MinValueJav.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\obj\Debug\MinValueJav.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 5 (Arrays & Lists)\MinValueJav\MinValueJav\obj\Debug\MinValueJav.pdb
