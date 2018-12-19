@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Javiera Diaz
+ * Created on: 12-12-18
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #39 - 2D Arrays
+ * This program creates a 2D array of numbers in a textbox using the length and width desired by the user to make the array. It uses random numbers.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +28,25 @@ namespace _2DArrayJav
         //Input: int anArray2D
         //Output: average of all the numbers in the array
         //Description: This function accepts an array as a paramater and uses it to find the average of all the numbers in the array
+        private int GetArrayAverage( int[,] tmp2DArrayOfIntergers)
+        {
+            //declare and intialize variables.
+            int average = 0;
+            int sum = 0;
+            int index = 0;
+            int length = 0;
+            int width = 0;
+
+            //calculate sum and average of the array
+            for (index = 0; index < tmp2DArrayOfIntergers.Length; index ++)
+            {
+                sum = sum + tmp2DArrayOfIntergers[length, width];
+                average = sum / tmp2DArrayOfIntergers.Length;
+            }
+            return average;
+
+            lblAverageOfArray.Text = "The average of this array is: " + average;
+        }
         private void btnCreate_Click(object sender, EventArgs e)
         {
             //declare local variables
@@ -29,7 +56,7 @@ namespace _2DArrayJav
 
             //get user's length and width
             width = Convert.ToInt16(this.nudWidth.Value);
-            length = Convert.ToInt16(this.nudLength);
+            length = Convert.ToInt16(this.nudLength.Value);
 
             //declare a new array with user's length and width
             int[,] a2DArray = new int[width, length];
@@ -52,6 +79,14 @@ namespace _2DArrayJav
             }
             //insert string into the textbox
             this.txtArray.Text = aPieceOfText;
+            //show this label
+            this.lblAverageOfArray.Show();
+        }
+
+        private void frm2DArrayJav_Load(object sender, EventArgs e)
+        {
+            //hide this label
+            this.lblAverageOfArray.Hide();
         }
     }
 }

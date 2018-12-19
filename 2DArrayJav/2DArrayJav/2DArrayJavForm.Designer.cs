@@ -37,6 +37,7 @@
             this.lblEnterWidth = new System.Windows.Forms.Label();
             this.nudWidth = new System.Windows.Forms.NumericUpDown();
             this.txtArray = new System.Windows.Forms.TextBox();
+            this.lblAverageOfArray = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.nudLength)).BeginInit();
             this.mnuFile.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudWidth)).BeginInit();
@@ -57,7 +58,7 @@
             this.fileToolStripMenuItem});
             this.mnuFile.Location = new System.Drawing.Point(0, 0);
             this.mnuFile.Name = "mnuFile";
-            this.mnuFile.Size = new System.Drawing.Size(469, 27);
+            this.mnuFile.Size = new System.Drawing.Size(480, 27);
             this.mnuFile.TabIndex = 1;
             this.mnuFile.Text = "menuStrip1";
             // 
@@ -119,18 +120,31 @@
             // 
             // txtArray
             // 
+            this.txtArray.Font = new System.Drawing.Font("Minion Pro", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtArray.Location = new System.Drawing.Point(96, 267);
             this.txtArray.Multiline = true;
             this.txtArray.Name = "txtArray";
             this.txtArray.Size = new System.Drawing.Size(257, 191);
             this.txtArray.TabIndex = 7;
             // 
+            // lblAverageOfArray
+            // 
+            this.lblAverageOfArray.AutoSize = true;
+            this.lblAverageOfArray.Font = new System.Drawing.Font("Chaparral Pro", 15.75F);
+            this.lblAverageOfArray.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblAverageOfArray.Location = new System.Drawing.Point(169, 515);
+            this.lblAverageOfArray.Name = "lblAverageOfArray";
+            this.lblAverageOfArray.Size = new System.Drawing.Size(63, 25);
+            this.lblAverageOfArray.TabIndex = 8;
+            this.lblAverageOfArray.Text = "label1";
+            // 
             // frm2DArrayJav
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(176)))), ((int)(((byte)(116)))));
-            this.ClientSize = new System.Drawing.Size(469, 492);
+            this.ClientSize = new System.Drawing.Size(480, 597);
+            this.Controls.Add(this.lblAverageOfArray);
             this.Controls.Add(this.txtArray);
             this.Controls.Add(this.nudWidth);
             this.Controls.Add(this.lblEnterWidth);
@@ -141,6 +155,7 @@
             this.MainMenuStrip = this.mnuFile;
             this.Name = "frm2DArrayJav";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.frm2DArrayJav_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nudLength)).EndInit();
             this.mnuFile.ResumeLayout(false);
             this.mnuFile.PerformLayout();
@@ -161,6 +176,7 @@
         private System.Windows.Forms.Label lblEnterWidth;
         private System.Windows.Forms.NumericUpDown nudWidth;
         private System.Windows.Forms.TextBox txtArray;
+        private System.Windows.Forms.Label lblAverageOfArray;
     }
 }
 
